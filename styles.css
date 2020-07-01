@@ -16,10 +16,10 @@ p {
 }
 
 
-/* .logo {
+.logo {
     width: 23%;
     padding: 1%;
-} */
+}
 
 .heroImg {
     height: 600px;
@@ -91,7 +91,7 @@ p {
 }
 
 
-/* Portfolio Styles 
+/* Portfolio Styles  */
 
 .portfolio-items-wrapper {
     display: grid;
